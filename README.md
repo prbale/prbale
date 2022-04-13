@@ -1,4 +1,4 @@
-# Hi there👋! I'm [Prashant]() 🙋‍♂️
+## Hello, welcome to my GitHub! <img src="https://raw.githubusercontent.com/zluvsand/zluvsand/master/wave.gif" width="25px"> I'm [Prashant]() 🙋‍♂️
 
 _**LATEST UPDATE:**_ _Exploring Android Jetpack Compose and Backend stuff_ 🥽.
 
