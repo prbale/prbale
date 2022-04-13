@@ -24,3 +24,5 @@ _**LATEST UPDATE:**_ _Exploring Android Jetpack Compose and Backend stuff_ 🥽.
 - [AWS Mobile Services](https://andronify.com/aws-mobile-services/)
 - [Kotlin Sealed Classes](https://andronify.com/sealed-classe/)<p></p>
 
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
