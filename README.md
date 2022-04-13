@@ -11,7 +11,7 @@
 
 ### 📈 GitHub stats
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=prbale&theme=dracula"/></p>
-<p><img src="https://github-readme-stats.vercel.app/api?username=prbale&show_icons=true"/></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=prbale&show_icons=true&theme=dracula"/></p>
 
 _**LATEST UPDATE:**_ _Exploring Android Jetpack Compose and Backend stuff_ 🥽.
 
