@@ -24,8 +24,18 @@ class About extends Me {
 ```
 
 ### 📈 GitHub stats
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=prbale&theme=dracula"/></p>
-<p><img src="https://awesome-github-stats.azurewebsites.net/user-stats/prbale?cardType=level&theme=dracula"/></p>
+
+<div align="center" >
+<a  href="https://github.com/prbale">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=prbale&theme=dracula" width="32.5%"/>
+<img src="https://awesome-github-stats.azurewebsites.net/user-stats/prbale?cardType=level&theme=dracula" width="32.5%"/>
+</a>
+
+<hr></hr>
+
+
+<!-- <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=prbale&theme=dracula"/></p>
+<p><img src="https://awesome-github-stats.azurewebsites.net/user-stats/prbale?cardType=level&theme=dracula"/></p> -->
 <!-- <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=prbale&theme=dracula"/></p>
  -->
 _**LATEST UPDATE:**_ _Exploring Android Jetpack Compose and Backend stuff_ 🥽.
