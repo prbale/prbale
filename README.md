@@ -23,6 +23,3 @@ _**LATEST UPDATE:**_ _Exploring Android Jetpack Compose and Backend stuff_ 🥽.
 - [Best practices for Code Review](https://andronify.com/best-code-review-practices/)
 - [AWS Mobile Services](https://andronify.com/aws-mobile-services/)
 - [Kotlin Sealed Classes](https://andronify.com/sealed-classe/)<p></p>
-
-
-![Jokes Card](https://readme-jokes.vercel.app/api)
