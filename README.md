@@ -18,5 +18,7 @@ _**LATEST UPDATE:**_ _Exploring Android Jetpack Compose and Backend stuff_ 🥽.
 - [Mobile application architect responsibilities](https://andronify.com/mobile-application-architect-responsibilities/)
 - [Protect sensitive information or credentials using Android Keystore](https://andronify.com/android-keystore/)
 - [Understanding Authentication, Authorization, and Encryption](https://andronify.com/auth-autho-encr/)
-
+- [Best practices for Code Review](https://andronify.com/best-code-review-practices/)
+- [AWS Mobile Services](https://andronify.com/aws-mobile-services/)
+- [Kotlin Sealed Classes](https://andronify.com/sealed-classes/)
 
