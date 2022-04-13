@@ -27,23 +27,16 @@ class About extends Me {
 ### 📈 GitHub stats
 
 <div align="center" >
-<a  href="https://github.com/prbale">
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=prbale&show_icons=true&theme=dracula" width = 400>
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=prbale&theme=dracula" width = 400>
-</p>
-</a>
   
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prbale&theme=dracula)
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=prbale&show_icons=true&theme=dracula" width = 400>
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=prbale&theme=dracula" width = 400>
+  <img src = "http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=prbale&theme=dracula" width = 400>
+  <img src = "http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=prbale&theme=dracula" width = 400>
 </p>
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=prbale&show_icons=true&theme=dracula" width = 400>
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=prbale&theme=dracula" width = 400>
+  <img src = "http://github-profile-summary-cards.vercel.app/api/cards/stats?username=prbale&theme=dracula" width = 400>
+  <img src = "http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=prbale&theme=dracula&utcOffset=8" width = 400>
 </p>
-
   
 <hr></hr>
 
