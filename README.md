@@ -31,11 +31,10 @@ class About extends Me {
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=prbale&theme=dracula" width="40%"/>
 <img src="https://awesome-github-stats.azurewebsites.net/user-stats/prbale?cardType=level&theme=dracula" width="40%"/>
 </a>
-
 <hr></hr>
 
-
 _**LATEST UPDATE:**_ _Exploring Android Jetpack Compose and Backend stuff_ 🥽.
+</div>
 
 ### 📚 Blog posts
 - [Mobile application architect responsibilities](https://andronify.com/mobile-application-architect-responsibilities/)
