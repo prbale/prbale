@@ -11,7 +11,8 @@
 
 ### 📈 GitHub stats
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=prbale&theme=dracula"/></p>
-  
+<p><img src="https://github-readme-stats.vercel.app/api?username=prbale&show_icons=true"/></p>
+
 _**LATEST UPDATE:**_ _Exploring Android Jetpack Compose and Backend stuff_ 🥽.
 
 ### 📚 Blog posts
@@ -20,5 +21,5 @@ _**LATEST UPDATE:**_ _Exploring Android Jetpack Compose and Backend stuff_ 🥽.
 - [Understanding Authentication, Authorization, and Encryption](https://andronify.com/auth-autho-encr/)
 - [Best practices for Code Review](https://andronify.com/best-code-review-practices/)
 - [AWS Mobile Services](https://andronify.com/aws-mobile-services/)
-- [Kotlin Sealed Classes](https://andronify.com/sealed-classes/)
+- [Kotlin Sealed Classes](https://andronify.com/sealed-classe/)<p></p>
 
