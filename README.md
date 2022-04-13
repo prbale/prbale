@@ -1,7 +1,5 @@
 ## Hello, welcome to my GitHub! <img src="https://raw.githubusercontent.com/zluvsand/zluvsand/master/wave.gif" width="25px"> I'm [Prashant]() 🙋‍♂️
 
-### 🎍 Welcome 👨‍💻
-
 - 👦 ***Android Application Expert***.
 - 👨‍💻 ***#SelfTaught*** Developer.
 - 📱 Mobile App developer.
