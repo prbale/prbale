@@ -1,10 +1,5 @@
 ## Hello, welcome to my GitHub! <img src="https://raw.githubusercontent.com/zluvsand/zluvsand/master/wave.gif" width="25px"> I'm [Prashant]() 🙋‍♂️
 
-### 📈 GitHub stats
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=prbale&theme=dracula"/></p>
-  
-_**LATEST UPDATE:**_ _Exploring Android Jetpack Compose and Backend stuff_ 🥽.
-
 ### 🎍 Welcome 👨‍💻
 
 - 👦 ***Android Application Expert***.
@@ -12,4 +7,16 @@ _**LATEST UPDATE:**_ _Exploring Android Jetpack Compose and Backend stuff_ 🥽.
 - 📱 Mobile App developer.
 - 👨‍💻 Mostly working on ❤️Android ❤️Kotlin !
 - ✍️ Write blogs on [andronify.com](https://andronify.com).
-- Loves Trekking and Coding.
+- 🚵 Loves Trekking and Coding.
+
+### 📈 GitHub stats
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=prbale&theme=dracula"/></p>
+  
+_**LATEST UPDATE:**_ _Exploring Android Jetpack Compose and Backend stuff_ 🥽.
+
+### 📚 Blog posts
+- [Mobile application architect responsibilities](https://andronify.com/mobile-application-architect-responsibilities/)
+- [Protect sensitive information or credentials using Android Keystore](https://andronify.com/android-keystore/)
+- [Understanding Authentication, Authorization, and Encryption](https://andronify.com/auth-autho-encr/)
+
+
