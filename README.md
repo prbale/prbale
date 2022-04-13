@@ -32,8 +32,19 @@ class About extends Me {
   <img src = "https://github-readme-stats.vercel.app/api?username=prbale&show_icons=true&theme=dracula" width = 400>
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=prbale&theme=dracula" width = 400>
 </p>
-
 </a>
+  
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prbale&theme=dracula)
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=prbale&show_icons=true&theme=dracula" width = 400>
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=prbale&theme=dracula" width = 400>
+</p>
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=prbale&show_icons=true&theme=dracula" width = 400>
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=prbale&theme=dracula" width = 400>
+</p>
+
+  
 <hr></hr>
 
 _**LATEST UPDATE:**_ _Exploring Android Jetpack Compose and Backend stuff_ 🥽.
