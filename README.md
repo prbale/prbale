@@ -1,4 +1,4 @@
-<!-- ## Hello, welcome to my GitHub! <img src="https://raw.githubusercontent.com/zluvsand/zluvsand/master/wave.gif" width="25px"> I'm [Prashant]() 🙋‍♂️
+## Hello, welcome to my GitHub! <img src="https://raw.githubusercontent.com/zluvsand/zluvsand/master/wave.gif" width="25px"> I'm [Prashant]() 🙋‍♂️
 
 - 👦 ***Android Application Expert***.
 - 👨‍💻 ***#SelfTaught*** Developer.
@@ -26,7 +26,7 @@ class About extends Me {
 
 <div align="center" >
   
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prbale&theme=dracula)
+<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prbale&theme=dracula)
 <p align = "center">
   <img src = "http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=prbale&theme=dracula" width = 400>
   <img src = "http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=prbale&theme=dracula" width = 400>
@@ -35,7 +35,7 @@ class About extends Me {
   <img src = "http://github-profile-summary-cards.vercel.app/api/cards/stats?username=prbale&theme=dracula" width = 400>
   <img src = "http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=prbale&theme=dracula&utcOffset=8" width = 400>
 </p>
-  
+   -->
 <hr></hr>
 
 _**LATEST UPDATE:**_ _Exploring Android Jetpack Compose and Backend stuff_ 🥽.
@@ -48,4 +48,4 @@ _**LATEST UPDATE:**_ _Exploring Android Jetpack Compose and Backend stuff_ 🥽.
 - [Best practices for Code Review](https://andronify.com/best-code-review-practices/)
 - [AWS Mobile Services](https://andronify.com/aws-mobile-services/)
 - [Kotlin Sealed Classes](https://andronify.com/sealed-classe/)<p></p>
- -->
+
