@@ -1,10 +1,8 @@
 ## Hello, welcome to my GitHub! <img src="https://raw.githubusercontent.com/zluvsand/zluvsand/master/wave.gif" width="25px"> I'm [Prashant]() 🙋‍♂️
 
-- 👦 ***Android Application Expert***.
-- 👨‍💻 ***#SelfTaught*** Developer.
-- 📱 Mobile App developer.
+- 👦 ***Mobile App Development Expert***.
 - 👨‍💻 Mostly working on ❤️Android ❤️Kotlin !
-- ✍️ Write blogs on [andronify.com](https://andronify.com).
+- ✍️ Write blogs on [https://prashbale.hashnode.dev/](https://prashbale.hashnode.dev/).
 - 🚵 Loves Trekking and Coding.
 
 <hr></hr>
